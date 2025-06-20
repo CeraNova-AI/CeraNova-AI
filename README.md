@@ -10,4 +10,4 @@ This is our builder's account — home to deployment-ready projects, early relea
 
 🚀 GitHub Org: [@CeraNovaAI](https://github.com/CeraNovaAI)  
 🌐 Website: [ceranovaai.com](https://ceranovaai.com)  
-📫 Contact: admin@ceranovaai.com
+📫 Contact: github@ceranovaai.com
